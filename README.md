@@ -1,6 +1,6 @@
-# Proyecto de Single Page Application con Bootstrap
+# AHORRAComprando
 
-Este proyecto es una Single Page Application (SPA) que utiliza HTML, CSS, Bootstrap y JavaScript para crear una aplicación de página única con un header, contenido dinámico y un footer.
+Este proyecto es el producto final del curso de IHC y Tecnologias Moviles.
 
 ## Requisitos
 
